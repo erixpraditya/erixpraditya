@@ -1,19 +1,20 @@
 ![Erix Praditya](img/github-header-banner.png)
 
-💻 [Junior Programmer | Web Dev Enthusiast]
+💻 **[Junior Programmer | Web Dev Enthusiast]**
 
 ✨ Exploring PHP, JavaScript & Laravel to build awesome stuff
 
-##### Skills
+##### 💫Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,vscode,git,github,bootstrap)]()
 
-##### Social Media
+##### 📲 Connect Me
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/erixpradityaa/?next=%2F) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erixpraditya/) 
 
-##### Stats
-![Erix GitHub stats](https://github-readme-stats.vercel.app/api?username=erixpraditya&show_icons=true&theme=merko)
+##### 📊 GitHub Stats:
+![Erix GitHub stats](https://github-readme-stats.vercel.app/api?username=erixpraditya&show_icons=true&theme=merko) ![](https://nirzak-streak-stats.vercel.app/?user=erixpraditya&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erixpraditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **erixpraditya/erixpraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
