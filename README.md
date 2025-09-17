@@ -1,11 +1,11 @@
 ![Erix Praditya](img/github-header-banner.png)
 
-💻 [**Junior Programmer | Web Dev Enthusiast**]
+💻 [Junior Programmer | Web Dev Enthusiast]
 
 ✨ Exploring PHP, JavaScript & Laravel to build awesome stuff
 
 ##### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,vscode,git,github,bootstrap,ps,ai,figma,)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,vscode,git,github,bootstrap)]()
 <!--
 **erixpraditya/erixpraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
