@@ -8,7 +8,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,vscode,git,github,bootstrap)]()
 
 ##### Social Media
-[![My Skills](https://skillicons.dev/icons?i=instagram)]() [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erixpraditya/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/erixpradityaa/?next=%2F) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erixpraditya/) 
+
 <!--
 **erixpraditya/erixpraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
