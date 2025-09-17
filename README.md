@@ -16,10 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=erixpraditya&theme=dark&hide_border=false)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erixpraditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **erixpraditya/erixpraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
