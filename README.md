@@ -11,7 +11,11 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/erixpradityaa/?next=%2F) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erixpraditya/) 
 
 ##### 📊 GitHub Stats:
-![Erix GitHub stats](https://github-readme-stats.vercel.app/api?username=erixpraditya&show_icons=true&theme=merko) ![](https://nirzak-streak-stats.vercel.app/?user=erixpraditya&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erixpraditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Erix GitHub stats](https://github-readme-stats.vercel.app/api?username=erixpraditya&show_icons=true&theme=merko)
+<br>
+![](https://nirzak-streak-stats.vercel.app/?user=erixpraditya&theme=dark&hide_border=false)
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erixpraditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
