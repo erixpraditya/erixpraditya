@@ -1,6 +1,7 @@
 ![Erix Praditya](img/github-header-banner.png)
 
 💻 [**Junior Programmer | Web Dev Enthusiast**]
+
 ✨ Exploring PHP, JavaScript & Laravel to build awesome stuff
 
 ##### Skills
